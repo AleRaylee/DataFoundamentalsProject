@@ -14,5 +14,5 @@ Machine (SVM) con diverse configurazioni.
 - **Materia:** Fondamenti di Scienza dei Dati
 - **Professore:** Domenico Garlisi
 - **Gruppo:** Gruppo Zero
-- **Membri:** [Gabriele Lo Cascio](www.linkedin.com/in/gabriele-locascio), [Alessia Bonì](https://github.com/AleRaylee), [Samuele Ales]()
+- **Membri:** [Gabriele Lo Cascio](https://www.linkedin.com/in/gabriele-locascio), [Alessia Bonì](https://github.com/AleRaylee), [Samuele Ales]()
 
