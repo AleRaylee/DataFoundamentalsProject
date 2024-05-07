@@ -7,7 +7,7 @@ famoso dataset Iris. Il dataset fornito contiene informazioni su
 150 campioni appartenenti a tre specie di Iris. Le informazioni raccolte includono
 la lunghezza e la larghezza del sepalo e del petalo di diversi fiori. L'obiettivo è utilizzare 
 il modello Support Vector Machine (SVM) con diverse configurazioni per classificare i dati. Di
-fondamentale importanza è l'analisi preliminare condotta di statistica descrittiva,
+fondamentale importanza è l'analisi preliminare di statistica descrittiva,
 che consente di acquisire maggior consapevolezza dei dati al fine di valutare
 successivamente la bontà del modello.
 
