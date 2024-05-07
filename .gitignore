@@ -1,3 +1,14 @@
 
 /.idea
 Relazione.lyx
+/fundamentals/.idea
+/fundamentals/etc
+/fundamentals/Lib
+fundamentals/pyvenv.cfg
+/fundamentals/Scripts
+/fundamentals/share
+scipy.ipynb
+seaborn.ipynb
+Simulazione Avanzata.ipynb
+Simulazione Numpy.ipynb
+Simulazioni Pandas.ipynb
