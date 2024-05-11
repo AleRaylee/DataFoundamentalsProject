@@ -1,6 +1,5 @@
 
 /.idea
-Relazione.lyx
 /fundamentals/.idea
 /fundamentals/etc
 /fundamentals/Lib
@@ -12,4 +11,15 @@ seaborn.ipynb
 Simulazione Avanzata.ipynb
 Simulazione Numpy.ipynb
 Simulazioni Pandas.ipynb
-Relazione.pdf
+fundamentals/boxplots.png
+fundamentals/class_count.png
+fundamentals/corr_matrix.png
+fundamentals/dataframe_info.png
+fundamentals/histos.png
+fundamentals/regressione.png
+fundamentals/pairplot.png
+Relazione.lyx~
+*.lyx~
+Relazione.lyx~
+Relazione.lyx
+Relazione.lyx~
